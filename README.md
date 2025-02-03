@@ -1,1 +1,1 @@
-# genai---architecting
+# genai-architecting
