@@ -1,1 +1,1 @@
-# genai-architecting
+# free-genai-bootcamp-2025
