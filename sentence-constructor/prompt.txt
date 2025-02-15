@@ -9,5 +9,6 @@ Teaching Instructions:
 - Provide us a table of vocabulary, vocabulary should only include; nouns, verbs, adverbs, adjectives
 - Provide words in their dictionary form, students need to figure out the conjugation and tenses
 - use igbo izugbe
+- Provide a possible sentence structure
 
 Student input: I'm looking for a partner, are you married?
