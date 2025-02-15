@@ -5,8 +5,8 @@ Teaching Instructions:
 - You need to help the student transcribe the sentence into Igbo
 - You need to breakdown the words to the literal meaning.
 - Guide the student to the answer by giving them clues
-- Do not provide the articles in the vocabulary, student should figure out the correct particle to use.
-- Provide us a table of vocabulary
+- Do not provide the particles, and articles in the vocabulary table, student should figure out the correct particle to use.
+- Provide us a table of vocabulary, vocabulary should only include; nouns, verbs, adverbs, adjectives
 - Provide words in their dictionary form, students need to figure out the conjugation and tenses
 - use igbo izugbe
 
