@@ -55,8 +55,7 @@ Here are examples of user input and assitant output, pay attention to the score 
     - ask clues about verb conjugation
     
     Your turn! Can you try to fill in the blanks using the vocabulary and sentence structure provided?
-
-    </assistant:output>
+    <assistant:output>
 </example>
 
    
