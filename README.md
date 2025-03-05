@@ -1,6 +1,15 @@
 # free-genai-bootcamp-2025
-Business Scenario
-You've been hired as an AI Engineer for an Igbo Language Learning School to extend the language offering and augment the learning experience for students between instructor-led classes.
+
+This repository documents my journey through the GenAI Bootcamp 2025 organized by Andrew Brown. I’ll be designing and developing AI-powered learning applications, focusing on real-world GenAI solutions, model selection, prompt engineering, and cloud deployment.
+
+
+## Bootcamp Overview
+The GenAI Bootcamp 2025 is designed to help participants:
+
+Understand the capabilities & limitations of GenAI.
+Apply GenAI to real-world business cases through projects.
+Learn to architect & deploy GenAI workloads effectively.
+Each week, the difficulty level increases, requiring strong problem-solving and adaptability. Many participants may drop out, but I plan to push through and complete all challenges.
 
 The school has an existing learning portal and learning record store. 
 You've been tasked to:
@@ -8,37 +17,40 @@ You've been tasked to:
 •	Maintain the learning experience the learning portal using AI developer tools
 •	Extend the platform to support various languages
 
-Learning Apps
+## Business Scenario
+I've been hired as an AI Engineer for an Igbo (Language Learning Center) to:
 
-Considerations: This is a wish list of potential projects around the business use-case and we may not build all these ideas.
+Expand language learning through AI-powered applications.
+Enhance student engagement between instructor-led classes.
+Leverage AI for personalized English-Korean language practice.
+Many students struggle with real-world English fluency due to a lack of interactive, personalized practice. These AI-powered apps aim to bridge that gap.
 
-Daily Life Visual Novel Generator 
-Build a learning app that takes in a town and allows the player to visit key locations and have daily routine conversations with variation.
-•	Must generate out consistent characters
-•	Must maintain the chat history of multiple characters
+## 📝 Notes & Documentation
+TOGAF (Enterprise AI Architecture): 
 
-Igbo Text Adventure 
-Build a text-adventure learning app that slowly introduces Igbo vocabulary, and have all primary actions needed to perform writing Igbo.
+Generative AI Essentials:
 
-Igbo Sentence Constructor 
-Build a learning app that has the user input an English phrase, and the app will assist them with translating to Igbo without directly providing them the answer.
+Machine Learning Mini Series: 
 
-Subtittles to Vocabulary [???/Derek]
-Build a learning utility that will take a movie subtitle file and extract all the vocabulary.
-•	You must use LLM to extract the vocabulary
-•	You need to use offline batch jobs to provide the lowest cost
-•	You must must prepare the data in json structured output
-•	You must evaluate the outputted vocabulary to be correct
+Bootcamp Journal: 
 
-Speech to Learn
-Build a learning app that allows users to practice speech in a igbo language.
-The app will present single word vocabulary and the student will attempt to say the word.
-•	Evaluate possible Automatic Speech Recognition (ASR) solutions
-•	Inference of speech-to-text for MVP must be under 1s
-•	Determine the lowest cost to run ASR at scale with 10,000 concurrent users
+## Required Accounts & Platforms
+Cloud: AWS, Azure, GCP
+AI/ML: Hugging Face, Lightning.AI, Intel Tiber Developer Cloud, CIVO
+Dev & Deployment: GitHub, Gitpod, Codespaces, MongoDB, Lucid Charts, Vercel/v0
 
-Igbo Teaching Assistant
-•	Requirement [Show us how RAG works]
-•	Extract body of text and be able to ask questions
-•	https://www.youtube.com/watch?v=OlZx_o60qAs&list=PLUqu4MKiV5q83qPR7zI7w7ucLWerAT0R5
+
+## Challenges & Learnings
+This section will be updated as I progress, documenting:
+
+Key technical challenges encountered.
+Solutions and lessons learned along the way.
+Reflections on growth throughout the bootcamp.
+
+## Resources
+Bootcamp Signup
+Andrew’s Message about Project Details
+Bootcamp Success Tips – Medium Article
+Reddit Post – Tips on Surviving a Bootcamp
+📌 This README will evolve as I make progress. For now, it serves as a starting point for my GenAI Bootcamp journey. Stay tuned for updates!
 
